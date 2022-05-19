@@ -1,3 +1,5 @@
+![image](https://media.discordapp.net/attachments/966935519089004597/976746363796746280/bilgisayar.gif)
+
 ## About me:
 Hello, I'm Mohit, A web developer and a freelancer
 I also have a discord bot that is in 400k+ servers. if you want to use my bot Invite it from [here](https;//GitHub.com).
